@@ -1,0 +1,45 @@
+@charset "UTF-8";
+@import url(http://fonts.googleapis.com/earlyaccess/notosanskr.css);
+
+
+/* 게시글목록 CSS */
+
+.blog_view_text{
+	text-align:left;
+	font-size: 100%;
+	font-weight: bold; 
+	line-height:150%;
+	padding:20px 40px;
+}
+
+.blog_view_info{
+	text-align:right;
+	color:#eee;
+	background-color:white;
+}
+.blog_view_text{
+	text-align:left;
+	font-size: 100%;
+	font-weight: 500; 
+	line-height:150%;
+	padding:20px 40px;
+}
+.blog_view_img{
+	text-align:center;
+	width:100%;
+	height:500px;
+	margin:20px 40px;
+}
+
+
+.list_view_title{
+	text-align:left;
+	font-size: 100%;
+	font-weight: 500; 
+}
+.list_view_info{
+	text-align:right;
+	font-size: 70%;
+	font-weight: 300; 
+	background-color:#eee;
+}

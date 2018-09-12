@@ -1,0 +1,27 @@
+
+WEBCONTENTS
+	
+	index.jsp
+	header.jsp
+	footer.jsp	
+	
+	# member 고은
+	
+			signup.jsp (modal)
+			findidpw.jsp (modal)
+			search.jsp (modal)
+	
+	# store 영달
+	
+			 storemain.jsp [ /img/storeimg ]
+	
+		
+	# docs
+	
+	# img
+	
+	# WEB-INF
+	# META-INF 
+	# BOOTSTRAP (삭제)
+	
+	
